@@ -1,232 +1,137 @@
-{
-    "language": "en",
-    "keyActive": "",
-    "DeveloperMode": false,
-    "autoCreateDB": true,
-    "allowInbox": false,
-    "autoClean": false,
-    "commandDisabled": [
-        "resend.js",
-        "autoreact.js",
-        "resend.js"
-    ],
-    "eventDisabled": [],
-    "EMAIL": "mdsaimsheikh271@gmail.com",
-    "PASSWORD": "ayanbaby88001",
-    "OTPKEY": "",
-    "BOTNAME": "➠𝐓𝐨𝐧𝐧𝐢-𝐁𝐨𝐭🪽",
-    "PREFIX": "/",
-    "ADMINBOT": [
-        "61556537307728",
-        ""
-    ],
-      "DESIGN": {
-    "Title": "TONNI-BOT",
-    "Theme": "Blue",
-    "Admin": "SAIM",
-    "Setup": {
-      "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
-      "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261559816549051%22%3A%22DTEKDjaK%22%2C%2261559609115922%22%3A%22mhYVK69X%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.887Z",
+        "lastAccessed": "2024-05-23T06:37:29.887Z"
+    },
+    {
+        "key": "datr",
+        "value": "RsRNZuXEJAN7ZBw8D375P2g5",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "sb",
+        "value": "RsRNZjjP7nMGn_z9iXLrLcyR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "1.6011383533477783",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "wd",
+        "value": "450x810",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "fr",
+        "value": "0VibIyogX7MJwWBnv.AWVwz6Y0SxWBbBYTruMgyJF02VM.BmTcRG..AAA.0.0.BmTuPH.AWXEYbmuotU",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61559609115922",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "xs",
+        "value": "26%3A-e9R9eisDqStfA%3A2%3A1716446151%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101532543%3BT%3A28607436",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2510%3Btimestamp%3A1716446178",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B649x360x1.6011383533477783",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "61559609115922",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-05-23T06:37:29.888Z",
+        "lastAccessed": "2024-05-23T06:37:29.888Z"
     }
-  },
-    "DATABASE": {
-        "sqlite": {
-            "storage": "data.sqlite"
-        }
-    },
-    "APPSTATEPATH": "appstate.json",
-    "FCAOption": {
-        "forceLogin": true,
-        "listenEvents": true,
-        "pauseLog": true,
-        "logLevel": "error",
-        "selfListen": true,
-        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15"
-    },
-    "version": "10.2.14",
-    "checktt": {
-        "maxColumn": 10
-    },
-    "daily": {
-        "cooldownTime": 40,
-        "rewardCoin": 100000,
-        "rewardExp": 1000
-    },
-    "help": {
-        "autoUnsend": false,
-        "delayUnsend": 10
-    },
-    "math": {
-        "WOLFRAM": "T8J8YV-H265UQ762K"
-    },
-    "rank": {
-        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
-    },
-    "rankup": {
-        "autoUnsend": false,
-        "unsendMessageAfter": 5
-    },
-    "rname": {
-        "APIKEY": "mi451266190"
-    },
-    "sauce": {
-        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
-    },
-    "video": {
-        "YOUTUBE_API": "AIzaSyBkeljYcuoBOHfx523FH2AEENlciKnm3jM"
-    },
-    "weather": {
-        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
-    },
-    "sim": {
-        "APIKEY": "Meew_sjfdFiF8FZWJE5cbrRQn3flpTI2YKI"
-    },
-    "work": {
-        "cooldownTime": 1200000
-    },
-    "adminUpdate": {
-        "autoUnsend": true,
-        "sendNoti": true,
-        "timeToUnsend": 10
-    },
-    "caesar": {
-        "caeserPassword": "266303"
-    },
-    "gif": {
-        "TENOR": "73YIAOY3ACT1"
-    },
-    "shortlink": {
-        "bitlyAPI": ""
-    },
-    "covid": {
-        "APIKEY": "MEWbmhkanJ0MjYwMjtuaGR6MTIzNDU2Nzg5ekB"
-    },
-    "menu": {
-        "autoUnsend": true,
-        "delayUnsend": 70
-    },
-    "cave": {
-        "cooldownTime": 1000000
-    },
-    "hitbutt": {
-        "APIKEY": ""
-    },
-    "img": {
-        "APIKEY": ""
-    },
-    "linkword": {
-        "APIKEY": ""
-    },
-    "slap": {
-        "APIKEY": ""
-    },
-    "sortword": {
-        "APIKEY": ""
-    },
-    "teach": {
-        "APIKEY": ""
-    },
-    "tikvideo": {
-        "APIKEY": "544df914a6mshf53fdd7db40cb84p1a7f8ejsnf02e9b3e05c7"
-    },
-    "ytbmp4": {
-        "YOUTUBE_API": "AIzaSyBkeljYcuoBOHfx523FH2AEENlciKnm3jM"
-    },
-    "log": {
-        "enable": true
-    },
-    "dutube": {
-        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
-    },
-    "banner": {
-        "APIKEY": "ntkhang"
-    },
-    "bannerbw": {
-        "APIKEY": "ntkhang"
-    },
-    "banner2": {
-        "APIKEY": "ntkhang"
-    },
-    "audio": {
-        "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
-        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
-    },
-    "ins": {
-        "APIKEY": ""
-    },
-    "diemdanh": {
-        "cooldownTime": 3000000
-    },
-    "surprise": {
-        "log": true,
-        "out": "",
-        "kickAll": "",
-        "delThread": ""
-    },
-    "fbcover": {
-        "APIKEY": "DUYNGU--SHIRON"
-    },
-    "zmp3": {
-        "YOUTUBE_API": "AIzaSyDBMW5WNbgH93BAvP8w1Dn_oYsGWpaVHeE"
-    },
-    "baolixi": {
-        "cooldownTime": 1200000
-    },
-    "fbvideo": {
-        "API_KEY": "mzkFree_DXHYBXRK6RZLHSEFZ8Q"
-    },
-    "insvideo": {
-        "API_KEY": "mzkFree_7A73C23B45C72"
-    },
-    "audio1": {
-        "YOUTUBE_API": "AIzaSyDBMW5WNbgH93BAvP8w1Dn_oYsGWpaVHeE"
-    },
-    "tx": {
-        "APIKEY": "chinhdz"
-    },
-    "bốc thâm": {
-        "cooldownTime": ""
-    },
-    "bankk": {
-        "APIKEY": "chinhdz"
-    },
-    "bank": {
-        "APIKEY": "chinhdz"
-    },
-    "bankh": {
-        "APIKEY": "chinhdz"
-    },
-    "xidach": {
-        "maxPlayers": 5,
-        "normalWinBonus": 1,
-        "superWinBonus": 2,
-        "epicWinBonus": 4,
-        "dropboxToken": "sl.BBUtYQhLQx4YdEYky17SRwmcJdrgVln9f4fZ8VfEKUvPV3nWAe8aXowtQwHLyVfPUwPZ_sv9LeKTlZlHc4QuY3Zd1gJzoIcpSCG7l0racCL_ZzXB9SSl56S_5v0kBDgWE7JCrWk"
-    },
-    "simvoice": {
-        "APIKEY": "Meew_kB5wRAlpHhrAj0GhRzmmLHesvvTbXE"
-    },
-    "he": {
-        "autoUnsend": true,
-        "delayUnsend": 300
-    },
-    "faith": {
-        "WOLFRAM": "T8J8YV-H265UQ762K"
-    },
-    "loto": {
-        "maxPlayers": 10,
-        "getDelay": 8
-    },
-    "pokemon": {
-        "APIKEY": "Mirai_nhattan_Vip"
-    },
-    "video2": {
-        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
-    },
-    "earn": {
-        "cooldownTime": 43200000
-    },
-    "god": {
-        "enable": true
-    }
-}
+        ]
